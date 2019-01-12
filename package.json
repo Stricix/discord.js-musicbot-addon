@@ -1,7 +1,7 @@
 {
-  "name": "discord.js-musicbot-addon",
+  "name": "essaiemusic",
   "version": "13.4.0",
-  "description": "A simple Node.js based music extension/bot for Discord.js projects using YouTube.",
+  "description": "!help",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -28,6 +28,6 @@
     "addon",
     "plugin"
   ],
-  "author": "demisex",
+  "author": "Stricix",
   "license": "ISC"
 }
